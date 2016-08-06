@@ -1,8 +1,8 @@
 import "babel-polyfill";
 
-import Volvox from 'microphone-core';
-import vconsul from 'microphone-consul';
-import vrestify from 'microphone-restify';
+import Volvox from 'volvox-core';
+import vconsul from 'volvox-consul';
+import vrestify from 'volvox-restify';
 
 import restify from 'restify'
 
